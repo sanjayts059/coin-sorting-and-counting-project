@@ -1,0 +1,6 @@
+10_rup
+1_rup
+20_rup
+2_rup
+5_rup
+coin
